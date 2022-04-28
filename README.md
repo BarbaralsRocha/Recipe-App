@@ -1,4 +1,4 @@
-## O que deverá ser desenvolvido
+# O Projeto
 
 Este é um  app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
@@ -17,4 +17,4 @@ Instale as dependências e inicialize o projeto
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
 
 
-# Projeto desenvolvido por Bárbara Rocha, Jorge Zupirolli, e João Pedro Ramos
+## Projeto desenvolvido por Bárbara Rocha, Jorge Zupirolli, e João Pedro Ramos
